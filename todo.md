@@ -1,0 +1,22 @@
+# CodeTrack redesign tasks
+
+- [x] Define a refreshed aesthetic visual system with stronger product polish.
+- [x] Generate refreshed 3D-oriented visual assets and connect them to the UI.
+- [x] Convert frontend `.tsx` source files to `.jsx` and remove TypeScript-only syntax.
+- [x] Update Vite and TypeScript configuration for JavaScript/JSX entrypoints.
+- [x] Add expressive but restrained animations and pointer-driven 3D depth.
+- [x] Improve landing, dashboard, library, details, and form styling as one cohesive system.
+- [x] Verify production build, workflows, responsive layouts, and reduced-motion behavior.
+- [x] Save a new checkpoint and deliver the revised project.
+- [x] Upgrade the app to full-stack user authentication capability.
+- [x] Add login/signup and user-specific problem data isolation.
+- [x] Protect workspace routes and add logout/session states.
+- [x] Verify separate-user data access and authentication flows.
+- [x] Add an explicit first-time account creation CTA alongside sign-in.
+- [x] Add URL-aware protected workspace entry for direct dashboard/library links.
+- [x] Add regression coverage proving user IDs are passed into every problem query and mutation.
+- [x] Replace the current floating-card 3D hero with a more cinematic visual focal point.
+- [x] Add stronger layered depth, lighting, parallax, and motion choreography.
+- [x] Verify the redesigned hero on desktop/mobile and with reduced motion.
+- [x] Add pointer-driven parallax to the cinematic hero. layers.
+- [x] Explicitly verify the cinematic hero with reduced motion enabled.
